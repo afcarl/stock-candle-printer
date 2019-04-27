@@ -5,7 +5,7 @@ Prints candles for the last ten days for stocks in the Philippine Stock Exchange
 ## Usage
 
 ```bash
-# Parcel bundles the code and runs dev server
+# Run the python script
 $ python main.py
 ```
 
